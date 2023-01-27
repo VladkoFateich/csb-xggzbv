@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-xggzbv/static/css/main.1f93eb14.chunk.css",
-    "main.js": "https://.github.io/csb-xggzbv/static/js/main.ae22508b.chunk.js",
-    "main.js.map": "https://.github.io/csb-xggzbv/static/js/main.ae22508b.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-xggzbv/static/js/runtime-main.bb6d43c1.js",
-    "runtime-main.js.map": "https://.github.io/csb-xggzbv/static/js/runtime-main.bb6d43c1.js.map",
-    "static/js/2.15c8f73e.chunk.js": "https://.github.io/csb-xggzbv/static/js/2.15c8f73e.chunk.js",
-    "static/js/2.15c8f73e.chunk.js.map": "https://.github.io/csb-xggzbv/static/js/2.15c8f73e.chunk.js.map",
-    "index.html": "https://.github.io/csb-xggzbv/index.html",
-    "static/css/main.1f93eb14.chunk.css.map": "https://.github.io/csb-xggzbv/static/css/main.1f93eb14.chunk.css.map",
-    "static/js/2.15c8f73e.chunk.js.LICENSE.txt": "https://.github.io/csb-xggzbv/static/js/2.15c8f73e.chunk.js.LICENSE.txt"
+    "main.css": "https://vladkofateich.github.io/csb-xggzbv/static/css/main.1f93eb14.chunk.css",
+    "main.js": "https://vladkofateich.github.io/csb-xggzbv/static/js/main.ac92d9e1.chunk.js",
+    "main.js.map": "https://vladkofateich.github.io/csb-xggzbv/static/js/main.ac92d9e1.chunk.js.map",
+    "runtime-main.js": "https://vladkofateich.github.io/csb-xggzbv/static/js/runtime-main.14d06193.js",
+    "runtime-main.js.map": "https://vladkofateich.github.io/csb-xggzbv/static/js/runtime-main.14d06193.js.map",
+    "static/js/2.15c8f73e.chunk.js": "https://vladkofateich.github.io/csb-xggzbv/static/js/2.15c8f73e.chunk.js",
+    "static/js/2.15c8f73e.chunk.js.map": "https://vladkofateich.github.io/csb-xggzbv/static/js/2.15c8f73e.chunk.js.map",
+    "index.html": "https://vladkofateich.github.io/csb-xggzbv/index.html",
+    "static/css/main.1f93eb14.chunk.css.map": "https://vladkofateich.github.io/csb-xggzbv/static/css/main.1f93eb14.chunk.css.map",
+    "static/js/2.15c8f73e.chunk.js.LICENSE.txt": "https://vladkofateich.github.io/csb-xggzbv/static/js/2.15c8f73e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb6d43c1.js",
+    "static/js/runtime-main.14d06193.js",
     "static/js/2.15c8f73e.chunk.js",
     "static/css/main.1f93eb14.chunk.css",
-    "static/js/main.ae22508b.chunk.js"
+    "static/js/main.ac92d9e1.chunk.js"
   ]
 }
